@@ -1,0 +1,5 @@
+*{margin: 0; padding: 0;}
+.cabeçalho {background-color:#00FFFF; color: rgb(14, 12, 13); display: flex; justify-content: space-around; padding: 24px 0;}
+.cabeçalho-imagem {width: 30%;}
+.cabeçalho-item-lista{display: inline-block; margin: 0 16px; padding: 24px 0; font: 24px;}
+.escola{background-image:linear-gradient(#00FFFF,#00CED1);display:center;justify-content: center; align-items: center;}
